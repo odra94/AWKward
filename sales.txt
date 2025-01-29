@@ -1,0 +1,6 @@
+Alice 100
+Bob 200
+Alice 150
+Charlie 300
+Bob 50
+Charlie 200
